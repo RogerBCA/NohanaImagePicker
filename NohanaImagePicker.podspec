@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.platform           = :ios, "10.0"
   spec.license            = "MIT"
   spec.source_files       = "NohanaImagePicker/**/*.{swift}"
-  spec.resources          = "NohanaImagePicker/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+  spec.resources          = "NohanaImagePicker/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,lproj}"
   spec.homepage           = "https://github.com/RogerBCA/NohanaImagePicker"
   spec.author             = { "Roger Cruz" => "info@rogerca.com" }
   spec.pod_target_xcconfig = { 'SWIFT_VERSION' => '5.0' }
