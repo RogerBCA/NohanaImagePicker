@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "NohanaImagePicker"
-  spec.version            = "0.9.3"
+  spec.version            = "0.9.4"
   spec.summary            = "A camera view controller with custom image picker and image cropping."
   spec.source             = { :git => "https://github.com/RogerBCA/NohanaImagePicker.git", :tag => spec.version.to_s }
   spec.requires_arc       = true
